@@ -1,4 +1,8 @@
 this is file2
 addind more content to file two
 
+<<<<<<< HEAD
 2024 footr addeed
+=======
+added 2025 footer
+>>>>>>> bug-fix
