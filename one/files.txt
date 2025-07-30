@@ -4,3 +4,5 @@ one more bug detected and fixxed
 
 bug fixed again
 add another marketing message
+
+another fix message for pink mode
